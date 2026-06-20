@@ -1,0 +1,17 @@
+id_pendencia,id_cliente,id_transacao,tipo,descricao,valor_original,valor_ajustado
+1,36,8,Estorno,Valor divergente,500,415.34352342658696
+2,5,424,Abatimento,Duplicidade,1000,867.788337293423
+3,27,228,Estorno,Valor divergente,2000,1827.6874648287746
+4,7,306,Estorno,Valor divergente,500,428.27282054991224
+5,2,135,Estorno,Duplicidade,500,405.2418063704262
+6,7,393,Estorno,Duplicidade,500,444.0951737613194
+7,17,83,Estorno,Valor divergente,500,430.5463624770727
+8,1,207,Abatimento,Valor divergente,500,469.8214444858256
+9,31,90,Estorno,Duplicidade,500,453.269782624135
+10,30,197,Abatimento,Valor divergente,1000,845.4906606077468
+11,21,38,Estorno,Duplicidade,1000,876.9133401648221
+12,2,196,Crédito,Valor divergente,500,428.60168657271225
+13,12,378,Crédito,Duplicidade,1000,807.9210818108465
+14,41,115,Estorno,Valor divergente,500,402.4938729959678
+15,33,319,Crédito,Duplicidade,1000,934.2071971640399
+16,49,487,Abatimento,Valor divergente,500,428.7455860498564
